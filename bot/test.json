@@ -1,4 +1,10 @@
 {
-    "title": "Test",
-    "description": "Dit is een test"
+  "title": "Test",
+  "description": "Dit is een test",
+  "embeds": [
+    {
+      "title": "Test",
+      "description": "Dit is een test!"
+    }
+  ]
 }
